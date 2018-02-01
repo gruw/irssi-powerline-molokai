@@ -360,10 +360,10 @@ statusbar = {
 
 settings = {
   core = {
-    real_name = "mich";
-    user_name = "mich";
-    nick = "mich";
-    quit_message = "Died of dysentery";
+    real_name = "demo";
+    user_name = "demo";
+    nick = "demo";
+    quit_message = "quit";
   };
   "fe-common/core" = {
     theme = "solarized-powerline";
